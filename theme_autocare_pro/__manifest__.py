@@ -54,7 +54,7 @@
     ],
 
     'support': 'techvex.dev@gmail.com',
-    'price': 17.00,
+    'price': 39.00,
     'currency': 'USD',
     'installable': True,
     'auto_install': False,
